@@ -1,0 +1,1 @@
+Interfaccia open/freemium MIT
