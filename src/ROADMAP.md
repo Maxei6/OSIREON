@@ -69,6 +69,7 @@ This roadmap outlines our strategic direction — from founding principles to fu
 - Inspire a generation of **governance tools based on logic, not power**
 - Maintain independence from any nation, ideology, or corporate control
 - Protect the system through **radical transparency**, **ethical AI**, and **decentralized infrastructure**
+- Certain future modules may be offered under a commercial license to ensure sustainability and advanced capabilities. The core will remain AGPL forever.
 
 ---
 
