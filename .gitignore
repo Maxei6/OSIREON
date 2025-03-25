@@ -1,0 +1,29 @@
+# System files (macOS / Windows)
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Python environments
+__pycache__/
+env/
+venv/
+
+# Node.js
+node_modules/
+
+# Editors/IDEs
+.vscode/
+.idea/
+
+# Archives and builds
+*.zip
+*.tar
+*.gz
+dist/
+build/
