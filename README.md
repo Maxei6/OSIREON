@@ -104,9 +104,9 @@ Your support fuels not just development — but the creation of a new standard f
 
 ## 🔗 Connect
 
-- Twitter: [@osireonai](https://twitter.com/osireonai) *(placeholder)*
-- Email: contact@osireon.org *(placeholder)*  
-- Website: [osireon.org](https://osireon.org) *(placeholder)*
+- Twitter: [@osireonai](https://x.com/osireon) 
+- Email: contact@osireon.org  
+- Website: [osireon.org](https://osireon.org) 
 
 ---
 
