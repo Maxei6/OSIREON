@@ -99,6 +99,7 @@ Your support fuels not just development — but the creation of a new standard f
 
 - Code: [AGPL v3](./LICENSE)  
 - Founding Docs: [CC BY-ND 4.0](./CC-BY-ND-4.0.md)
+- Certain future modules may be offered under a commercial license to ensure sustainability and advanced capabilities. The core will remain AGPL forever.
 
 ---
 
