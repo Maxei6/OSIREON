@@ -12,7 +12,7 @@ Your contributions are valued — but must align with this mission.
 Please make sure to:
 
 - Read the [Certificate of Origin](./certificate-of-origin/)
-- Understand our [Ethical Terms](./ADDITIONAL_TERMS.md)
+- Understand our [Ethical Terms](./ADDITIONAL-TERMS.md)
 - Follow the [AGPL License](./LICENSE)
 
 This is not just code — it's a system designed to serve humanity. Contributions must reflect that.
