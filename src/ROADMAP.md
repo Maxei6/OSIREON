@@ -59,7 +59,7 @@ This Code of Conduct ensures we build that future **together**, without falling 
 
 If you witness or experience behavior that violates this Code of Conduct, please open an issue or contact the maintainers directly at:
 
-📩 **contact@osireon.org** (placeholder — update when ready)
+📩 **contact@osireon.org** 
 
 ---
 
