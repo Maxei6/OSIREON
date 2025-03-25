@@ -33,8 +33,13 @@ This is not just code — it's a system designed to serve humanity. Contribution
 
 - Introduce proprietary or closed components
 - Violate AGPL or CC licenses
-- Embed surveillance logic or authoritarian behavior
-- Prioritize short-term gains over collective well-being
+- Include logic designed for mass surveillance, manipulation, or authoritarian control
+- Attempt to shift the project's focus toward surveillance, policing, or behavioral control
+
+**Note:** Monitoring for public safety (e.g. crowd flow, emergency alerts) may be considered only if:
+- It aligns with Osireon’s ethical mission
+- It is fully transparent and open-source
+- It does not violate privacy, civil liberties, or individual autonomy
 
 ---
 
