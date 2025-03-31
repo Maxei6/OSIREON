@@ -99,7 +99,17 @@ Your support fuels not just development — but the creation of a new standard f
 
 - Code: [AGPL v3](./LICENSE)  
 - Founding Docs: [CC BY-ND 4.0](./CC-BY-ND-4.0.md)
-- Certain future modules may be offered under a commercial license to ensure sustainability and advanced capabilities. The core will remain AGPL forever.
+
+Osireon uses a dual license model:
+
+Core system → Licensed under AGPL v3 to ensure that all improvements remain open and public, even when used via API or in hosted services.
+
+UI & frontend → Licensed under MIT to encourage widespread adoption and contribution.
+
+Pro modules → Covered by a commercial license with ethical clauses, allowing responsible use while preventing misuse by malicious actors or corrupt institutions.
+
+We believe in open collaboration — with clear boundaries to protect the mission.
+Osireon is free to use, but not free to corrupt.
 
 ---
 
