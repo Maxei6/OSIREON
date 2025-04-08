@@ -14,6 +14,7 @@ Please make sure to:
 - Read the [Certificate of Origin](./certificate-of-origin/)
 - Understand our [Ethical Terms](./ADDITIONAL-TERMS.md)
 - Follow the [AGPL License](./LICENSE)
+- Read the [Core Development Guidance](./https://github.com/Maxei6/OSIREON/blob/main/OSIREON%20-%20Core%20Development%20Guidance.pdf/)
 
 This is not just code — it's a system designed to serve humanity. Contributions must reflect that.
 
