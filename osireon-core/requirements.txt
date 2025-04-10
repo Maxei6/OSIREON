@@ -1,0 +1,11 @@
+fastapi==0.95.0
+uvicorn==0.21.1
+pydantic==1.10.7
+python-dotenv==1.0.0
+sqlalchemy==2.0.9
+psycopg2-binary==2.9.6
+requests==2.28.2
+python-multipart==0.0.6
+importlib-metadata==6.1.0
+typing-extensions==4.5.0
+asyncpg==0.27.0

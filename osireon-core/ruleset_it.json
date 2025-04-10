@@ -1,0 +1,60 @@
+{
+  "rules": [
+    {
+      "id": "rule_001",
+      "name": "Rispetto dei diritti fondamentali",
+      "description": "Le policy devono rispettare i diritti fondamentali garantiti dalla Costituzione italiana",
+      "keywords": ["diritti", "costituzione", "fondamentali", "libertà", "uguaglianza"],
+      "severity": "critical"
+    },
+    {
+      "id": "rule_002",
+      "name": "Sostenibilità economica",
+      "description": "Le policy devono essere economicamente sostenibili e non aumentare eccessivamente il debito pubblico",
+      "keywords": ["debito", "sostenibilità", "bilancio", "spesa", "deficit"],
+      "severity": "high"
+    },
+    {
+      "id": "rule_003",
+      "name": "Equità sociale",
+      "description": "Le policy devono promuovere l'equità sociale e ridurre le disuguaglianze",
+      "keywords": ["equità", "disuguaglianza", "inclusione", "marginalizzazione", "vulnerabili"],
+      "severity": "high"
+    },
+    {
+      "id": "rule_004",
+      "name": "Sostenibilità ambientale",
+      "description": "Le policy devono essere compatibili con gli obiettivi di sostenibilità ambientale",
+      "keywords": ["ambiente", "clima", "sostenibilità", "inquinamento", "risorse"],
+      "severity": "medium"
+    },
+    {
+      "id": "rule_005",
+      "name": "Trasparenza",
+      "description": "Le policy devono essere trasparenti e comprensibili per i cittadini",
+      "keywords": ["trasparenza", "comprensibilità", "informazione", "accessibilità", "chiarezza"],
+      "severity": "medium"
+    },
+    {
+      "id": "rule_006",
+      "name": "Efficacia",
+      "description": "Le policy devono avere obiettivi chiari e misurabili",
+      "keywords": ["efficacia", "obiettivi", "misurazione", "risultati", "impatto"],
+      "severity": "medium"
+    },
+    {
+      "id": "rule_007",
+      "name": "Rispetto dell'autonomia locale",
+      "description": "Le policy devono rispettare l'autonomia degli enti locali",
+      "keywords": ["autonomia", "locale", "sussidiarietà", "decentramento", "territori"],
+      "severity": "low"
+    },
+    {
+      "id": "rule_008",
+      "name": "Protezione dei dati personali",
+      "description": "Le policy che coinvolgono dati personali devono rispettare la normativa sulla privacy",
+      "keywords": ["privacy", "dati", "personali", "GDPR", "riservatezza"],
+      "severity": "high"
+    }
+  ]
+}
