@@ -97,7 +97,7 @@ Your support fuels not just development — but the creation of a new standard f
 
 ## 📜 License
 
-- Code: [AGPL v3](./LICENSE)  
+- Code: [AGPL v3](./LICENSE%20(AGPL%20v3))  
 - Founding Docs: [CC BY-ND 4.0](./CC-BY-ND-4.0.md)
 
 Osireon uses a dual license model:
