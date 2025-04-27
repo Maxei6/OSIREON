@@ -1,10 +1,14 @@
-# 🌐 OSIREON
+# 🚀 Osireon Core - Civic Tech AI Framework
 
-> **A public intelligence system for a world in chaos.**  
-> Open-source, decentralized, incorruptible.  
-> Built to simulate logic-based governance for global prosperity.
+**Status: Work In Progress**
 
----
+This repository is under active development.  
+We are building a modular, open-source system to simulate public policies, verify them through AI agents, validate ethics on blockchain, and empower transparent civic decision-making.
+
+📅 Full MVP launch planned soon.  
+🌍 First target country: Italy.
+
+🔒 Licensed under AGPL v3 — contributions and forks welcome, but respect the mission and ethics of Osireon.
 
 ## ❓ What is OSIREON?
 
